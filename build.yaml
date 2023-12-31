@@ -1,9 +1,9 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: totem_left
+    shield: reno_left
   - board: seeeduino_xiao_ble
-    shield: totem_right
+    shield: reno_right
   - board: seeeduino_xiao_ble
-    shield: totem_dongle
+    shield: reno_dongle
 #  - board: seeeduino_xiao_ble
 #    shield: settings_reset

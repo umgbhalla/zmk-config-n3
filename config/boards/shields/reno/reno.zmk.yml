@@ -1,0 +1,12 @@
+file_format: "1"
+id: reno
+name: RENO
+type: shield
+url: https://github.com/umgbhalla/reno
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - reno_left
+  - reno_right
+  - reno_dongle
